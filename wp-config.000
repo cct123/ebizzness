@@ -17,6 +17,16 @@
  *
  * @package WordPress
  */
+/*
+define('WP_HOME', 'ebizzness-475820339.us-east-2.elb.amazonaws.com')
+define('WP_SITEURL','ebizzness-475820339.us-east-2.elb.amazonaws.com')
+*/
+
+define( 'AS3CF_SETTINGS', serialize( array(
+    'provider' => 'aws',
+    'access-key-id' => 'AKIA6KXKDFAUMMBBOC36',
+    'secret-access-key' => 'jhjKWQHIKEG6S+mXxhH47i+JwsrgUtmfDSdoSzCq',
+) ) );
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
@@ -46,14 +56,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '=Sn:xxJbBhJ;#*sKsz6/@%w/awiF+KH/tzbRE5%]/t$kd]>A+.|.(og~l_#{nQ^#' );
-define( 'SECURE_AUTH_KEY',  '&.J1Q>`YOIV@=NO4*XEi I*v7X{_h{{k^:]HuosGA<3R~Cm9A< sVDh}bJX1dXKk' );
-define( 'LOGGED_IN_KEY',    'S.k__K`z.Qi4X4<&U;*8Z-S~:Y0!Xkg*T]#W9(s,?cU9c5Rl.ebex>*vk|^G!4&)' );
-define( 'NONCE_KEY',        'F5SEh,}lUd5gE%#gN~g34Iz+unVLoe;2*Y<>@N~u.ox:t|zCarHuR<godTV~zC(r' );
-define( 'AUTH_SALT',        'Y/D5xV^~YnmCffRL O(R0m`9!93p+R{;cvW)~{N_tm&@i^i9`#+yqAkt91L4U&{$' );
-define( 'SECURE_AUTH_SALT', 'NW*ppc=DTPGriFm148PkD+=)([SJtf[;BntE.=je*t.2nG8MCXVqjK`FB0S0?K,q' );
-define( 'LOGGED_IN_SALT',   'bf04345,ECrLR@LWk^}YGcEAB95xq(2CNe`;7:xUa)xzSYM5@7Wrn5)AZQhp_#i{' );
-define( 'NONCE_SALT',       '6<96L0&6#uxMJ{X0U%}d*D((ejK/0}?$_ALs8V0qSncY2Vrq):?r;bi8!wwa](,i' );
+define( 'AUTH_KEY',         'Ho(XM0!Dh?+g2{B3&k %&wv-[n}X|]MTtY*8.NYW_+2&g6@{<yDjX*u7t0#3/uQi' );
+define( 'SECURE_AUTH_KEY',  'S/jjVxBH /YmE>FDueLGI%^hXnK])8MM5W-Q:O>&2MA.GVW Xyxu48)^#JzZ<CX7' );
+define( 'LOGGED_IN_KEY',    '7|FMp]@0Q.W#d:D]^vDXXAA&![|*R!A9S0+z6^st.d~luY}uX*BP>YqQ$;R>X/fN' );
+define( 'NONCE_KEY',        '<OfN13^iCnPo;p}Aa5S+fh(ee:Dx#o/:ERNao-Dp[x8EW2!$G3D)48IOii}ZG+~`' );
+define( 'AUTH_SALT',        '[eoUgjQH39)t5LdgRde>v5>4ROZ}*8F4Cw&S6N=C0)Qu;,Ge$vw[(#d-G54o/Ixm' );
+define( 'SECURE_AUTH_SALT', '(6?y]6S3QfrqW8YW*I<^QSNL?fN2$RJ(|l?|3|/} J!h5$TRH^OjM6$QN.(Y2 zK' );
+define( 'LOGGED_IN_SALT',   '`8yFmKf^4]A8(;zr;!!Iu`XuxOLF9ap.w{:-=AG|7A/_/bH#dypv91[QvOp `EcF' );
+define( 'NONCE_SALT',       '$+X(?&`stK/HANvX+~E;@!BX/WA7cX9%a*0u*TJi=FzItEE4oDj)~.Y_d=YA>2!F' );
 
 /**#@-*/
 
