@@ -1,0 +1,96 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://www.ebizzness.cf
+Data file = /srv/www/ebizzness/current/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = /srv/www/ebizzness/current/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = /srv/www/ebizzness/current/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+TF: Popular Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Top Header Info : 
+
+Text - No Title - Widget already exists
+
+Advertisement Banner One : 
+
+Image - No Title - Widget already exists
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Widget already exists
+Products - Products - Widget already exists
+TF: Product Grid Column Widget - Featured Products - Widget already exists
+Products by Rating - Top rated products - Widget already exists
+TF: Product Grid Column Widget - New Arrival Product - Widget already exists
+
+Contact Page Sidebar : 
+
+Custom HTML - Contact Info - Widget already exists
+
+WooCommerce Sidebar : 
+
+Product Categories - Product categories - Widget already exists
+Active Product Filters - Active filters - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Products - Products - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+ ShoppingCart Template Footer Column 1 : 
+
+Products - Featured Products - Widget already exists
+
+ ShoppingCart Template Footer Column 2 : 
+
+Products - On Sale Products - Widget already exists
+
+ ShoppingCart Template Footer Column 3 : 
+
+Products - All Products - Widget already exists
+
+ ShoppingCart Template Footer Column 4 : 
+
+Products - Products - Widget already exists
+
+Footer Column 1 : 
+
+Text - No Title - Widget already exists
+
+Footer Column 2 : 
+
+Custom HTML - We Accept - Widget already exists
+
+Footer Column 3 : 
+
+Custom HTML - Shop Location - Widget already exists
+
+Footer Column 4 : 
+
+Image - Download App - Widget already exists
+Image - No Title - Widget already exists
+
+Max Mega Menu Widgets : 
+
+Products - Products - Widget already exists
+Text - No Title - Widget already exists
+Products - Products - Widget already exists
+Text - No Title - Widget already exists
+Max Mega Menu - No Title - Widget already exists
+Navigation Menu - No Title - Widget already exists
+Image - Featured Product - Widget already exists
+
+
+
+---tf-tfdi/after_import---
+
